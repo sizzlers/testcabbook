@@ -5,7 +5,8 @@ deploy:
   provider: cloudfoundry 
   api: https://api.run.pivotal.io
   username: sureshasbe@gmail.com
-  password:   secure:hYCih9opIOhhL/QrVnlnjfLIDXQaIgmaznNY6XyQHnP8YFZZaXa1vwN0qo7xuzPXRhG94
+  password:
+   secure:hYCih9opIOhhL/QrVnlnjfLIDXQaIgmaznNY6XyQHnP8YFZZaXa1vwN0qo7xuzPXRhG94
 s9D2BuaBIkbx0EsLVs5VoZenFCyAJZ7kVnLglTxIIfBHbmDYEk2w0gxKQQvPrZ2phxJQHUSWwMunLhux
 hG5yoL0ba1vFPQmOaM6b8fmCdMa456x96+QzBy4ITnEJlZzVRlqfI5T+hR8Q8Doxsu7SsHyum9Ay17vA
 EIxbJ+EI5ovhMFUCMhgIauTOipXV/ZHnIKnFNZaIEM+8Vbll0PF97bRQoB2GeQu9RFe3f6Wqs9FQjl0L
